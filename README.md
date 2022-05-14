@@ -115,4 +115,3 @@ If it returns `1`, you are good to go. Otherwise, foreign key enforcement is not
 
 *Also*, sqlite3 does not have any kind of data-type enforcement (!!), so be careful not to insert a string into an integer column.
 
-SQLite3 sucks.
