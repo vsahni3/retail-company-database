@@ -1,0 +1,95 @@
+[1641696805.9802072] login: Login failed with ID 1
+[1641700335.957964] check_permission: User 7 ([ID: 7] Lorena Tolbert <lorenat@waldoshoes.com>) does not have necessary permissions.
+[1641700416.0840986] check_permission: User 7 ([ID: 7] Lorena Tolbert <lorenat@waldoshoes.com>) does not have necessary permissions.
+[1641700745.5746248] check_permission: User 7 ([ID: 7] Lorena Tolbert <lorenat@waldoshoes.com>) does not have necessary permissions.
+[1641701412.377996] check_permission: User 7 ([ID: 7] Lorena Tolbert <lorenat@waldoshoes.com>) does not have necessary permissions.
+[1641702358.6823685] check_permission: User 7 ([ID: 7] Lorena Tolbert <lorenat@waldoshoes.com>) does not have necessary permissions.
+[1641702372.20341] login: Login failed with ID 1
+[1641702374.3762875] login: Login failed with ID 1
+[1641702375.6999812] login: Login failed with ID 1
+[1641702376.8819551] login: Login failed with ID 1
+[1641702377.9136477] login: Login failed with ID 1
+[1641702377.9139533] login: Maximum retries (5) exceeded.
+[1641709640.5515954] login: Login failed with ID 1909
+[1641709677.7171726] login: Login failed with ID 1
+[1641709702.0709488] login: Login failed with ID 1
+[1641709704.62751] login: Login failed with ID 1
+[1641709708.2554674] login: Login failed with ID 1
+[1641709708.2556326] login: Maximum retries (5) exceeded.
+[1641709792.1297102] login: Login failed with ID 123344
+[1641709795.0010464] login: Login failed with ID 1
+[1641709796.3108294] login: Login failed with ID 1
+[1641709797.701322] login: Login failed with ID 1
+[1641709799.116779] login: Login failed with ID 1
+[1641709799.1169505] login: Maximum retries (5) exceeded.
+[1641709811.6635263] login: Login failed with ID 1
+[1641709812.3470242] login: Login failed with ID 1
+[1641709816.3009431] login: Login failed with ID 1
+[1641709819.9897304] login: Login failed with ID 1
+[1641709820.9516032] login: Login failed with ID 1
+[1641709820.9517577] login: Maximum retries (5) exceeded.
+[1641709855.4017334] login: Login failed with ID 1234
+[1641709856.6634092] login: Login failed with ID 1
+[1641709857.5574584] login: Login failed with ID 1
+[1641709858.9313357] login: Login failed with ID 1
+[1641709859.9209123] login: Login failed with ID 1
+[1641709859.921056] login: Maximum retries (5) exceeded.
+[1641709879.4555285] login: Login failed with ID 1
+[1641709882.1823246] login: Login failed with ID 12345
+[1641709883.2111022] login: Login failed with ID 1
+[1641709883.9893277] login: Login failed with ID 1
+[1641709885.026309] login: Login failed with ID 1
+[1641709885.0265863] login: Maximum retries (5) exceeded.
+[1641709889.116324] login: Login failed with ID 1
+[1641709893.6300967] login: Login failed with ID 1234
+[1641709898.57865] login: Login failed with ID 1
+[1641709900.682362] login: Login failed with ID 1
+[1641709901.6629524] login: Login failed with ID 1
+[1641709901.663102] login: Maximum retries (5) exceeded.
+[1641710725.491805] check_permission: User 5 ([ID: 5] Eleanor Haley <eleanorh@waldoshoes.com>) does not have necessary permissions.
+[1641714100.8501446] check_permission: User 2 ([ID: 2] Roswell Levitt <roswelll@waldoshoes.com> (Manager)) does not have necessary permissions.
+[1641741475.2486558] login: Login failed with ID 1
+[1641746133.0703208] login: Login failed with ID 1
+[1641752631.4477782] check_permission: User 7 ([ID: 7] Lorena Tolbert <lorenat@waldoshoes.com>) does not have necessary permissions.
+[1641752643.3469672] check_permission: User 7 ([ID: 7] Lorena Tolbert <lorenat@waldoshoes.com>) does not have necessary permissions.
+[1641753591.0555894] check_permission: User 2 ([ID: 2] Roswell Levitt <roswelll@waldoshoes.com> (Manager)) does not have necessary permissions.
+[1641754249.177653] login: Login failed with ID 123456
+[1641754251.9290423] login: Login failed with ID 123456
+[1641763543.3901546] login: Login failed with ID 1
+[1641763548.4939773] login: Login failed with ID 1
+[1641766850.7515724] login: Login failed with ID 1
+[1641767141.032258] login: Login failed with ID 1
+[1641767145.270058] login: Login failed with ID 1
+[1641771899.806498] login: Login failed with ID 1
+[1641771905.5874653] login: Login failed with ID 1
+[1641772483.3041482] login: Login failed with ID 17
+[1641772492.301809] login: Login failed with ID 16
+[1641772496.899335] login: Login failed with ID 17
+[1641774343.337742] login: Login failed with ID 1
+[1641774346.9696238] login: Login failed with ID 1
+[1641774555.3273647] login: Login failed with ID 1
+[1641774560.0088072] login: Login failed with ID 123456
+[1641781333.338021] login: Login failed with ID 1
+[1641781349.487793] login: Login failed with ID 1
+[1641782502.9531472] login: Login failed with ID 1
+[1641782506.7068539] login: Login failed with ID 1
+[1641782555.6592848] login: Login failed with ID 2
+[1641782563.8872893] login: Login failed with ID 3
+[1641785157.0652034] login: Login failed with ID 1
+[1641788115.6892755] login: Login failed with ID 1
+[1641788148.7027273] login: Login failed with ID 1
+[1641788254.22665] login: Login failed with ID 1
+[1641788683.655924] login: Login failed with ID 6
+[1641788696.3732543] check_permission: User 6 ([ID: 6] Mariah Haynes <mariahh@waldoshoes.com>) does not have necessary permissions.
+[1641788710.33482] check_permission: User 6 ([ID: 6] Mariah Haynes <mariahh@waldoshoes.com>) does not have necessary permissions.
+[1652546952.5070503] login: Login failed with ID 1
+[1652546958.689845] login: Login failed with ID 1
+[1652547009.8889132] login: Login failed with ID 2
+[1652547013.2416432] login: Login failed with ID 1
+[1652547230.646402] login: Login failed with ID 1
+[1652547230.6503925] login: Maximum retries (5) exceeded.
+[1652547237.2900496] login: Login failed with ID 1
+[1652547337.9676595] login: Login failed with ID 10
+[1652547341.1964524] login: Login failed with ID 10
+[1652547436.855767] login: Login failed with ID 1
+[1652547721.8063092] login: Login failed with ID 1
